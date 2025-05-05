@@ -1,0 +1,2 @@
+/*O_o*/
+google.search.cse.api16405({"error":{"errors":[{"domain":"global","reason":"forbidden","message":"Unauthorized access to internal API. Please refer to https://support.google.com/customsearch/answer/4542055"}],"code":403,"message":"Unauthorized access to internal API. Please refer to https://support.google.com/customsearch/answer/4542055"}});
